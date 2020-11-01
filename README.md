@@ -41,25 +41,20 @@
 
 6、未来，无限可能
 在通往无比强大的路上，Maya才刚刚起步，需要你的支持与鼓励，请给Maya更多的时间。
-\
-\
+
 
 ### 相关截图
 _最新版本界面可能与截图有出入。_
 
-<center>
-![A1.png](https://i.loli.net/2020/11/01/e8gfB9G1X4NQOKx.png)
-![A2.png](https://i.loli.net/2020/11/01/fT4RmanC8EdoGX9.png)
-![A3.png](https://i.loli.net/2020/11/01/HqT87pQFc51Kjan.png)
-![A4.png](https://i.loli.net/2020/11/01/OEvwrgTadCzj85n.png)
-![A5.png](https://i.loli.net/2020/11/01/ltVmOCFA9MNcBiU.png)
-![A6.png](https://i.loli.net/2020/11/01/ZiKJ5F6N3HfjYUt.png)
-![A7.png](https://i.loli.net/2020/11/01/ZTGszHaKSbQPxjY.png)
-![A8.png](https://i.loli.net/2020/11/01/MO19vKDLpXPsc6r.png)
-</center>
+![](https://i.loli.net/2020/11/01/e8gfB9G1X4NQOKx.png)
+![](https://i.loli.net/2020/11/01/fT4RmanC8EdoGX9.png)
+![](https://i.loli.net/2020/11/01/HqT87pQFc51Kjan.png)
+![](https://i.loli.net/2020/11/01/OEvwrgTadCzj85n.png)
+![](https://i.loli.net/2020/11/01/ltVmOCFA9MNcBiU.png)
+![](https://i.loli.net/2020/11/01/ZiKJ5F6N3HfjYUt.png)
+![](https://i.loli.net/2020/11/01/ZTGszHaKSbQPxjY.png)
+![](https://i.loli.net/2020/11/01/MO19vKDLpXPsc6r.png)
 
-\
-\
 
 ### QQ群
 * <kbd>588516128</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
