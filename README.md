@@ -50,14 +50,16 @@
 ### 相关截图
 _最新版本界面可能与截图有出入。_
 
-![](https://i.loli.net/2020/11/01/e8gfB9G1X4NQOKx.png)
-![](https://i.loli.net/2020/11/01/fT4RmanC8EdoGX9.png)
-![](https://i.loli.net/2020/11/01/HqT87pQFc51Kjan.png)
-![](https://i.loli.net/2020/11/01/OEvwrgTadCzj85n.png)
-![](https://i.loli.net/2020/11/01/ltVmOCFA9MNcBiU.png)
-![](https://i.loli.net/2020/11/01/ZiKJ5F6N3HfjYUt.png)
-![](https://i.loli.net/2020/11/01/ZTGszHaKSbQPxjY.png)
-![](https://i.loli.net/2020/11/01/MO19vKDLpXPsc6r.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/WfbgAVZwT5J9txv.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/EbYMt6wmF51o8eG.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/tgx7892MQNBqo4v.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/UJB9efzuyWhcAO8.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/Vvy4Ye5hqjF7aMC.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/29xgDukGHvarQiK.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/ULlyVnzStF631W4.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/3qAUGLHX2wjJQD7.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/fJSMP1WAqEpkTl4.png)
+![Maye 快速启动 工具](https://i.loli.net/2021/03/03/pQBZybIk3YlWjsK.png)
 
 
 ### 参数变量
