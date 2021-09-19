@@ -1,0 +1,99 @@
+
+@layoutLeftWidth: 100px;                      // 宽度 左侧分类列表
+
+@colorSelection:#fff;                       // 颜色 选择 前景
+@colorSelectionBG:#338fff;                  // 颜色 选择 背景
+
+@colorText: #FFF;                           // 颜色 文字
+@colorPrimary: #202020;                     // 颜色 主
+@colorSecondary: #202020;                   // 颜色 次
+@colorBorder: #1D1D1D;                      // 颜色 边框
+@colorShadow:rgba(0, 0, 0, .5);             // 颜色 阴影
+@colorHover: #2D2D2D;                       // 颜色 激活
+@colorActive: #292929;                      // 颜色 选中
+
+@colorIconText: #FFF;                       // 颜色 图标-文字
+@colorIconBorder: #1D1D1D;                  // 颜色 图标-边框
+@colorIconHover: rgba(0, 0, 0, .3);         // 颜色 图标-激活
+@colorIconActive: rgba(0, 0, 0, .5);        // 颜色 图标-选中
+
+@colorMenuText: #FFF;                       // 颜色 菜单-文字
+@colorMenuBG: #2C2C2C;                      // 颜色 菜单-背景
+@colorMenuBorder: #292929;                  // 颜色 菜单-边框
+@colorMenuShadow:rgba(0, 0, 0, 0);          // 颜色 菜单-阴影
+@colorMenuHover: #3d3d3d;                   // 颜色 菜单-激活
+
+@colorTipText: #FFF;                        // 颜色 提示-文字
+@colorTipBG: #2C2C2C;                       // 颜色 提示-背景
+@colorTipBorder: #292929;                   // 颜色 提示-边框
+
+
+.container,
+.list-tab-item,
+.list-icon-item,
+.dropdown-menu,
+.dropdown-menu li > a,
+.itemTip {
+    border-radius: 5px;
+}
+
+.dropdown-menu {
+    padding: 5px;
+}
+
+.itemTip {
+    border-width: 1px;
+}
+
+.top,
+.left,
+.right {
+    background-color: rgba(32,32,32,.93) !important;
+}
+
+.btn {
+    background-color: #4B4B4B;
+
+    &-primary {
+        background-color: #5c5b5b;
+    }
+    &:hover {
+        background-color: #686767;
+    }
+    &:active {
+        background-color: #464545;
+    }
+}
+
+
+
+.container > div.top {
+    position: fixed;
+    right: 5px;
+    width: 45px;
+    height: 26px;
+    background-color: transparent !important;
+    z-index: 1;
+
+    > h1 {
+        height: inherit;
+        color: transparent;
+        cursor: move;
+    }
+    > ul{
+
+        > li:not(.menu) {
+            display: none;
+        }
+    }
+
+}
+
+.container > .left,
+.container > .right,
+.container > .search {
+    height: calc(100vh - 12px);
+}
+
+
+

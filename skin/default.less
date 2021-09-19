@@ -22,11 +22,15 @@
 @colorIconHover: rgba(0, 0, 0, .05);        // 颜色 图标-激活
 @colorIconActive: rgba(0, 0, 0, .1);        // 颜色 图标-选中
 
-@colorMenuText: #5a5a5a;                    // 颜色 菜单-文字
-@colorMenuBG: #fff;                         // 颜色 菜单-背景
-@colorMenuBorder: #d3d3d3;                  // 颜色 菜单-边框
-@colorMenuShadow:rgba(0, 0, 0, .6);         // 颜色 菜单-阴影
-@colorMenuHover: #dcdcdc;                   // 颜色 菜单-激活
+@colorMenuText:#5a5a5a;                               // 颜色 菜单-文字
+@colorMenuHoverText: @colorMenuText;			        // 颜色 菜单-激活文字 (1.2.5+)
+@colorMenuHover:#dcdcdc;                              // 颜色 菜单-激活背景
+@colorMenuBG:#fff;                                    // 颜色 菜单-背景
+@colorMenuBorder:#d3d3d3;                             // 颜色 菜单-边框
+@colorMenuShadow:rgba(0, 0, 0, .35);                  // 颜色 菜单-阴影
+@colorMenuDivider: @colorMenuBorder;                    // 颜色 菜单-分割线 (1.2.5+)
+@colorMenuSubIcon: @colorMenuText;                      // 颜色 菜单-子菜单图标 (1.2.5+)
+@colorMenuDisabled: darken(@colorMenuText, 20%);        // 颜色 菜单-禁用 (1.2.5+)
 
 @colorTipText: #5a5a5a;                     // 颜色 提示-文字
 @colorTipBG: #fefee9;                       // 颜色 提示-背景

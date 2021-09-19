@@ -1,0 +1,102 @@
+
+@CH: rgba(255, 255, 255, .5);// 颜色 激活
+@CV: rgba(255, 255, 255, .4);// 颜色 选中
+
+@layoutLeftWidth: 100px;                      // 宽度 左侧分类列表
+
+@colorSelection:#fff;                       // 颜色 选择 前景
+@colorSelectionBG:#338fff;                  // 颜色 选择 背景
+
+@colorText: #535353;                        // 颜色 文字
+@colorPrimary: #F3F3F3;                     // 颜色 主
+@colorSecondary: #F3F3F3;                   // 颜色 次
+@colorBorder: #E5E5E5;                      // 颜色 边框
+@colorShadow:rgba(0, 0, 0, .5);             // 颜色 阴影
+@colorHover: @CH;                             // 颜色 激活
+@colorActive: @CV;                            // 颜色 选中
+
+@colorIconText: #535353;                    // 颜色 图标-文字
+@colorIconBorder: transparent;                // 颜色 图标-边框
+@colorIconHover: @CH;                         // 颜色 图标-激活
+@colorIconActive: @CV;                        // 颜色 图标-选中
+
+@colorMenuText: #535353;                    // 颜色 菜单-文字
+@colorMenuBG: #fff;                         // 颜色 菜单-背景
+@colorMenuBorder: #EAEAEA;                  // 颜色 菜单-边框
+@colorMenuShadow:rgba(0, 0, 0, 0);          // 颜色 菜单-阴影
+@colorMenuHover: rgb(236, 235, 235);        // 颜色 菜单-激活
+
+@colorTipText: #535353;                     // 颜色 提示-文字
+@colorTipBG: #fff;                          // 颜色 提示-背景
+@colorTipBorder: #E5E5E5;                   // 颜色 提示-边框
+
+
+.container,
+.list-tab-item,
+.list-icon-item,
+.dropdown-menu,
+.dropdown-menu li > a,
+.itemTip {
+    border-radius: 5px;
+}
+
+.dropdown-menu {
+    padding: 5px;
+}
+
+.itemTip {
+    border-width: 1px;
+}
+
+.top,
+.left,
+.right {
+    background-color: rgba(243,243,243,.93) !important;
+}
+
+.btn {
+    background-color: #F7F7F7;
+
+    &-primary {
+        background-color: #FFF;
+    }
+    &:hover {
+        background-color: #FDFDFD;
+    }
+    &:active {
+        background-color: #F5F5F5;
+    }
+}
+
+
+
+.container > div.top {
+    position: fixed;
+    right: 5px;
+    width: 45px;
+    height: 26px;
+    background-color: transparent !important;
+    z-index: 1;
+
+    > h1 {
+        height: inherit;
+        color: transparent;
+        cursor: move;
+    }
+    > ul{
+
+        > li:not(.menu) {
+            display: none;
+        }
+    }
+
+}
+
+.container > .left,
+.container > .right,
+.container > .search {
+    height: calc(100vh - 12px);
+}
+
+
+

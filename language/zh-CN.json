@@ -68,7 +68,11 @@
             "customIcon": "自定义图标",
             "copyPath": "复制路径",
             "creatDesktopLnk": "创建桌面快捷方式",
-            "edit": "编辑"
+            "edit": "编辑",
+            "notShow": "不显示",
+            "default": "默认",
+            "smallIcon": "小图标",
+            "bigIcon": "大图标"
         },
         "modal": {
             "run": "运行",
@@ -112,7 +116,8 @@
             "copyFail": "错误：复制失败！",
             "creatLnkFail": "错误：快捷方式创建失败！",
             "globalToShortPathSuccess": "[全局] 转换到 便携路径，执行完毕！",
-            "globalToLongPathSuccess": "[全局] 转换到 绝对路径，执行完毕！"
+            "globalToLongPathSuccess": "[全局] 转换到 绝对路径，执行完毕！",
+            "risk": "风险操作「{name}」是否继续?"
         },
         "tipTool": {
             "startupParameter": "启动参数：{p}",
@@ -203,6 +208,7 @@
         "mouseMiddleRunAll": "鼠标中键单击分类运行全部",
         "dblclickNewCategory": "双击空白新建分类",
         "dblclickReName": "双击分类重命名",
+        "wakeNotScrolling": "唤醒时不保留滚动状态",
         "switchGroup": "切换分组",
         "mouseWheelTab": "鼠标滚轮",
         "disableTabHover": "鼠标悬停",
@@ -221,6 +227,7 @@
         "mouseNotifyIconShow": "鼠标悬停托盘图标",
         "mouseNotifyIconShowDelay": "鼠标悬停托盘延时 [毫秒]",
         "deskCornerShow": "停靠屏幕四角时吸附 <h>(此功能会强制关闭停靠屏幕边缘时吸附)</h>",
+        "cornerShowDelay": "四角吸附显示延时 [毫秒]",
         "edgeHide": "停靠屏幕边缘时吸附",
         "edgeHideAnimate": "边缘吸附动效",
         "edgeShowDelay": "边缘吸附显示延时 [毫秒]",

@@ -68,7 +68,11 @@
             "customIcon": "自訂圖示",
             "copyPath": "複製路徑",
             "creatDesktopLnk": "建立桌面捷徑",
-            "edit": "編輯"
+            "edit": "編輯",
+            "notShow": "不顯示",
+            "default": "預設",
+            "smallIcon": "小圖示",
+            "bigIcon": "大圖示"
         },
         "modal": {
             "run": "執行",
@@ -112,7 +116,8 @@
             "copyFail": "錯誤：複製失敗！",
             "creatLnkFail": "錯誤：捷徑建立失敗！",
             "globalToShortPathSuccess": "[全域] 轉換到 可攜路徑，執行完畢！",
-            "globalToLongPathSuccess": "[全域] 轉換到 絕對路徑，執行完畢！"
+            "globalToLongPathSuccess": "[全域] 轉換到 絕對路徑，執行完畢！",
+            "risk": "風險操作「{name}」是否繼續?"
         },
         "tipTool": {
             "startupParameter": "啟動參數：{p}",
@@ -203,6 +208,7 @@
         "mouseMiddleRunAll": "滑鼠中鍵點選分類執行全部",
         "dblclickNewCategory": "按兩下空白新增分類",
         "dblclickReName": "按兩下分類重新命名",
+        "wakeNotScrolling": "喚醒時不保留滾動狀態",
         "switchGroup": "切換分組",
         "mouseWheelTab": "滑鼠滾輪",
         "disableTabHover": "滑鼠暫留",
@@ -221,6 +227,7 @@
         "mouseNotifyIconShow": "滑鼠暫留系統匣圖示",
         "mouseNotifyIconShowDelay": "滑鼠暫留工具列延時 [毫秒]",
         "deskCornerShow": "停靠螢幕四角時吸附 <h>(此功能會強制關閉停靠螢幕邊緣時吸附)</h>",
+        "cornerShowDelay": "四角吸附顯示延時 [毫秒]",
         "edgeHide": "停靠螢幕邊緣時吸附",
         "edgeHideAnimate": "邊緣吸附動效",
         "edgeShowDelay": "邊緣吸附顯示延時 [毫秒]",
