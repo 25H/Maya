@@ -93,7 +93,8 @@ Maye 支持 Win环境变量同时并内置 2 个 参数变量 *(变量尾不含 
 
 ### QQ群
 * <kbd>588516128</kbd> <kbd><font color="#FE7E40">将满</font></kbd>
-* <kbd>588183137</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
+* <kbd>588183137</kbd> <kbd><font color="#FE7E40">将满</font></kbd>
+* <kbd>588046177</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
 
 
 ### 赞助
