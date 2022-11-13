@@ -94,17 +94,15 @@ Maye 支持 Win环境变量同时并内置 2 个 参数变量 *(变量尾不含 
 ### QQ群
 * <kbd>588516128</kbd> <kbd><font color="#FE7E40">将满</font></kbd>
 * <kbd>588183137</kbd> <kbd><font color="#FE7E40">将满</font></kbd>
-* <kbd>588046177</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
+* <kbd>588046177</kbd> <kbd><font color="red">满</font></kbd>
+* <kbd>579798599</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
 
 
 
 ### 微信群
 微信群二维码
 
-<img src="http://blog.arae.cc/images/vx-maye.png" alt="Maye 微信群" width="200" height="200">
-
-
-如群二维码过期，请扫描以下二维码(X1982882666)添加群主后说明加入Maye群
+请扫描以下二维码(X1982882666)添加群主后说明加入Maye群
 
 <img src="http://blog.arae.cc/images/vx-25H.png" alt="" width="200" height="200">
 
