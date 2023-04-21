@@ -1,0 +1,385 @@
+{
+    "exe": {
+        "menu": {
+            "refresh": "刷新",
+            "openDebug": "打开调试",
+            "run": "运行",
+            "undisturbedMode": "免打扰模式",
+            "set": "设置",
+            "exit": "退出",
+            "revoke": "撤销(&U)",
+            "cut": "剪切(&T)",
+            "copy": "复制(&C)",
+            "paste": "粘贴(&P)",
+            "del": "删除(&D)",
+            "selectAll": "全选(&A)",
+            "delAll": "删除所有内容(&X)"
+        },
+        "tips": {
+            "openFile": "打开文件",
+            "lnkRemarks": "此快捷方式由 {name} 创建",
+            "creatWinFail": "窗口创建失败",
+            "pleaseEnter": "请输入：",
+            "exitBtn": "是否完全退出 {name} ？\r\n\r\nps：如需关闭按钮隐藏，请自行开启「点击关闭按钮时隐藏」",
+            "ExecFail": "执行失败",
+            "errFNF": "文件未找到",
+            "errPNF": "路径未找到",
+            "errACCESSDENIED": "拒绝访问",
+            "errOOM": "内存不足",
+            "errDLLNOTFOUND": "动态链接库未找到",
+            "errSHARE": "无法打开共享文件",
+            "errASSOCINCOMPLETE": "文件关联信息不完整",
+            "errDDETIMEOUT": "操作超时",
+            "errDDEFAIL": "操作失败",
+            "errDDEBUSY": "操作正忙",
+            "errNOASSOC": "文件关联不可用"
+        },
+        "filter": {
+            "all": "所有文件(*.*)|*.*",
+            "customIcon": "图片(*.png;*.jpg;*.jpeg;*.bmp;*.ico)|*.png;*.jpg;*.jpeg;*.bmp;*.ico|可执行文件(*.exe)|*.exe|所有文件(*.*)|*.*"
+        }
+    },
+    "main": {
+        "menu": {
+            "refresh": "刷新",
+            "openDebug": "打开调试",
+            "run": "运行",
+            "viewHotKeys": "查看项目快捷键",
+            "toShortPath": "转到便携路径",
+            "toLongPath": "转到绝对路径",
+            "set": "设置",
+            "exit": "退出",
+            "creatCategory": "新建分类",
+            "reName": "重命名",
+            "unfix": "取消固定",
+            "fix": "固定",
+            "del": "删除",
+            "creatBlankItem": "新建 空白项目",
+            "addBuiltItems": "添加 内置项目",
+            "addAppx": "添加 Appx",
+            "runAll": "运行全部",
+            "reIconCacheAll": "重建此分类图标缓存",
+            "delAll": "删除全部项目",
+            "adminRun": "管理员权限运行",
+            "miniRun": "最小化运行",
+            "openMode": "打开方式",
+            "openFileLocation": "打开文件所在位置",
+            "reIconCache": "重建图标缓存",
+            "customIcon": "自定义图标",
+            "copyPath": "复制路径",
+            "creatDesktopLnk": "创建桌面快捷方式",
+            "edit": "编辑",
+            "notShow": "不显示",
+            "default": "默认",
+            "smallIcon": "小图标",
+            "bigIcon": "大图标",
+            "listView": "列表视图",
+            "icon": "图标",
+            "list": "列表",
+            "autolist": "自动多列"
+        },
+        "modal": {
+            "run": "运行",
+            "addBuiltItems": "添加内置项目",
+            "Appx": "添加Appx",
+            "viewHotKeys": "查看项目快捷键",
+            "newCategoryName": "请输入新分类名称",
+            "newVersion": "发现新版本",
+            "edit": "编辑 - {id}",
+            "name": "名称",
+            "target": "目标",
+            "startingPosition": "起始位置",
+            "startupParameter": "启动参数",
+            "adminStartup": "以管理员权限启动",
+            "adminStartupEver": "始终以管理员权限启动",
+            "hotKeys": "快捷键",
+            "remarks": "备注",
+            "processPriority": "进程优先级",
+            "pp0": "正常",
+            "pp1": "高于正常",
+            "pp2": "高",
+            "pp3": "实时",
+            "pp4": "低于正常",
+            "pp5": "低",
+            "icon": "图标",
+            "select": "选择",
+            "browse": "浏览",
+            "clean": "清除"
+        },
+        "btn": {
+            "ok": "确定",
+            "cancel": "取消"
+        },
+        "tips": {
+            "search": "搜索... 关键词 / 正则表达式 / 终端命令",
+            "startPoint": "默认程序所在目录，如无特殊要求请保持此项为空",
+            "delCategory": "删除「{name}」分类?",
+            "delItemAll": "是否删除「{name}」分类内全部项目?",
+            "delItem": "删除项目「{name}」 ?",
+            "reIconCacheFail": "错误：图标缓存重建失败！",
+            "copyFail": "错误：复制失败！",
+            "creatLnkFail": "错误：快捷方式创建失败！",
+            "globalToShortPathSuccess": "[全局] 转换到 便携路径，执行完毕！",
+            "globalToLongPathSuccess": "[全局] 转换到 绝对路径，执行完毕！",
+            "risk": "风险操作「{name}」是否继续?"
+        },
+        "tipTool": {
+            "startupParameter": "启动参数：{p}",
+            "hotKeys": "快捷键：{key}",
+            "processPriority": "进程优先级：{level}",
+            "pp0": "正常",
+            "pp1": "高于正常",
+            "pp2": "高",
+            "pp3": "实时",
+            "pp4": "低于正常",
+            "pp5": "低"
+        },
+        "builtItems": {
+            "shutdown": "关机",
+            "reboot": "重启",
+            "dormancy": "休眠",
+            "sleep": "睡眠",
+            "cancellation": "注销",
+            "lockscreen": "锁屏",
+            "closescreen": "关闭显示器",
+            "disableCloseScreen": "禁止息屏",
+            "enableCloseScreen": "允许息屏",
+            "volumeUp": "音量+",
+            "volumeDown": "音量-",
+            "volumeMute": "静音",
+            "mediaLast": "上一首",
+            "mediaPlay": "播放暂停",
+            "mediaNext": "下一首",
+            "computer": "此电脑",
+            "recycle": "回收站",
+            "controls": "控制面板",
+            "connections": "网络连接",
+            "network": "网络",
+            "printers": "打印机",
+            "startup": "启动目录",
+            "altstartup": "系统启动目录",
+            "ComSpec": "命令提示符",
+            "calc": "计算器",
+            "mspaint": "画板",
+            "notepad": "记事本",
+            "mstsc": "远程桌面连接",
+            "SndVol": "音量合成器",
+            "regedit": "注册表编辑器",
+            "gpedit": "组策略",
+            "services": "服务",
+            "perfmon": "资源监视器",
+            "compmgmt": "计算机管理"
+        }
+    },
+    "set": {
+        "about":        "关于",
+        "routine":      "常规",
+        "action":       "动作",
+        "interface":    "界面",
+        "search":       "搜索",
+        "help":         "帮助",
+
+        "Setting": "设置",
+        "HomePage": "项目主页",
+        "Feedback": "问题反馈",
+        "QQGroup": "官方Q群",
+        "Reward": "打赏赞助",
+
+        "language": "语言",
+        "auto": "自动",
+        "ChineseSimplified": "简体中文",
+        "ChineseTraditional": "繁体中文",
+        "autoStart": "开机时自动启动",
+        "hidePanelStart": "启动时在后台运行",
+        "winTop": "置于顶层",
+        "fullScreenMode": "全屏勿扰",
+        "notifyIcon": "托盘",
+        "hideNotifyIcon": "隐藏托盘图标",
+        "NotifyIcon": "托盘图标颜色",
+        "colour": "彩色",
+        "white": "白色",
+        "black": "黑色",
+        "data": "数据",
+        "priorityRelativePath": "优先使用相对路径",
+        "autoBack": "自动备份数据文件 <h>(上限：10； 频率：10分钟)</h>",
+        "other": "其他",
+        "newVersionCheck": "开启新版本检查 <h>(周期：3 天)</h>",
+        "enableActiveMemoryManagement": "开启主动内存管理",
+        "MemoryCache": "开启内存缓存 <h>(重启生效，如遇无法打开/闪退请手动删除缓存文件)</h>",
+
+        "ThreadRun": "多线程运行 <h>(使用多线程运行项目)</h>",
+        "disableDoubleClick": "双击运行项目",
+        "mouseMiddleRun": "鼠标中键运行项目 <h>(运行后不隐藏主界面)</h>",
+        "mouseMiddleRunAll": "鼠标中键单击分类运行全部",
+        "dblclickNewCategory": "双击空白新建分类",
+        "dblclickReName": "双击分类重命名",
+        "wakeNotScrolling": "唤醒时不保留滚动状态",
+        "switchGroup": "切换分组",
+        "mouseWheelTab": "鼠标滚轮",
+        "disableTabHover": "鼠标悬停",
+        "tabHoverDelay": "鼠标悬停延时 [毫秒]",
+        "ShowAndHide": "显示与隐藏",
+        "HotKeyEnable": "快捷键",
+        "mouseHotKeyEnable": "鼠标快捷键",
+        "LeftKey": "左键",
+        "MiddleKey": "中键",
+        "RightKey": "右键",
+        "SideBeforeKey": "侧键前",
+        "SideAfterKey": "侧键后",
+        "mouseMiddleTogglePanel": "X键单击",
+        "mouseMiddleDesktopShow": "X键单击桌面",
+        "dblclickShowTask": "左键双击任务栏 <h>(实验性)</h>",
+        "mouseNotifyIconShow": "鼠标悬停托盘图标",
+        "mouseNotifyIconShowDelay": "鼠标悬停托盘延时 [毫秒]",
+        "deskCornerShow": "停靠屏幕四角时吸附 <h>(此功能会强制关闭停靠屏幕边缘时吸附)</h>",
+        "cornerShowDelay": "四角吸附显示延时 [毫秒]",
+        "edgeHide": "停靠屏幕边缘时吸附",
+        "edgeHideAnimate": "边缘吸附动效",
+        "edgeShowDelay": "边缘吸附显示延时 [毫秒]",
+        "winFollowMouse": "显示时跟随鼠标位置",
+        "hide": "隐藏",
+        "notExitClose": "点击关闭按钮时隐藏",
+        "hidePanelKillFocus": "失去焦点后",
+        "hidePanelMouseOut": "鼠标移出后",
+        "rightDoublelclickHide": "左键双击空白区域",
+        "hidePanelRun": "运行项目后 <h>(鼠标中键忽略)</h>",
+
+        "WinAndLayout": "窗口与布局",
+        "theme": "主题",
+        "zoomLevel": "主窗口缩放比",
+        "winOpacity": "透明度",
+        "layoutLeftWidth": "分类宽度",
+        "layoutType": "分类显示位置",
+        "notShow": "不显示",
+        "LeftSide": "左侧",
+        "RightSide": "右侧",
+        "TopSide": "顶部",
+        "TopBottonm": "底部",
+        "listType": "列表显示类型",
+        "listTypeIcon": "列表图标尺寸",
+        "default": "默认",
+        "smallIcon": "小图标",
+        "bigIcon": "大图标",
+        "layouNameLine": "项目名显示行数 <h>(仅支持显示类型icon)</h>",
+        "winName": "窗口名",
+        "locking": "锁定",
+        "lockPanelPosition": "主面板位置",
+        "lockPanelSize": "主面板尺寸",
+        "tipsTool": "提示组件",
+        "tipTool": "启用悬停提示",
+        "tipToolName": "显示名称",
+        "tipToolPath": "显示路径",
+        "tipToolParam": "显示参数",
+        "tipToolKey": "显示快捷键",
+        "tipToolPriority": "显示优先级",
+        "tipToolRemark": "显示备注",
+        "topGroupTip": "标题栏 > 权限提示",
+        "topBtnSearch": "标题栏 > 搜索按钮",
+        "topBtnMenu": "标题栏 > 菜单按钮",
+        "topBtnMini": "标题栏 > 最小化按钮",
+        "topBtnClose": "标题栏 > 关闭按钮",
+        "SearchScope": "搜索范围",
+        "searchPath": "搜索路径",
+        "searchRemark": "搜索备注",
+        "MatchCondition": "匹配条件",
+        "searchCondFirstLetter": "匹配首字母",
+        "searchCondPinyin": "匹配拼音",
+        "custom": "自定义",
+        "soList": "自定义搜索引擎 <open class=\"label-badge help\" href=\"https://blog.arae.cc/post/25834.html\">?</open>",
+
+        "helpAry": [
+            {
+                "a": "<b>搜索命令：</b>",
+                "b": ""
+            },
+            {
+                "a": "执行终端命令",
+                "b": "[>]+命令，用于执行CMD命令"
+            },
+            {
+                "a": "调用运行",
+                "b": "[<]+命令，用于执行「运行」命令"
+            },
+            {
+                "a": "可用搜索列表",
+                "b": "[s ]+搜索内容"
+            },
+            {
+                "a": "百度搜索",
+                "b": "[bd ]+搜索内容"
+            },
+            {
+                "a": "必应搜索",
+                "b": "[b ]+搜索内容"
+            },
+            {
+                "a": "谷歌搜索",
+                "b": "[g ]+搜索内容"
+            },
+            {
+                "a": "DuckDuckGo搜索",
+                "b": "[d ]+搜索内容"
+            },
+            {
+                "a": "&nbsp;",
+                "b": ""
+            },
+            {
+                "a": "<b>快捷操作：</b>",
+                "b": ""
+            },
+            {
+                "a": "隐藏主面板",
+                "b": "ESC"
+            },
+            {
+                "a": "正向切换分类",
+                "b": "Tab"
+            },
+            {
+                "a": "反向切换分类",
+                "b": "Shift+Tab"
+            },
+            {
+                "a": "选择项目",
+                "b": "方向键"
+            },
+            {
+                "a": "运行项目",
+                "b": "Enter"
+            },
+            {
+                "a": "进入搜索",
+                "b": "直接按下搜索内容"
+            },
+            {
+                "a": "退出搜索",
+                "b": "ESC"
+            },
+            {
+                "a": "新建分组",
+                "b": "双击分组栏空白"
+            },
+            {
+                "a": "重命名分组",
+                "b": "双击分组名"
+            },
+            {
+                "a": "进入设置窗口",
+                "b": "Ctrl+,"
+            },
+            {
+                "a": "&nbsp;",
+                "b": ""
+            },
+            {
+                "a": "<b>其他：</b>",
+                "b": ""
+            },
+            {
+                "a": "程序多实例运行",
+                "b": "Maye 支持不同目录程序多实例运行 (不限数量)"
+            }
+        ]
+    }
+}
