@@ -2,7 +2,9 @@
 
 **[点击阅读原文](https://t.arae.cc/p/25792.html)**
 
-**[GoTo MayeLite](https://t.arae.cc/p/25804.html)**
+**[Maye已停止开发，请移步到MayeLite](https://t.arae.cc/p-25804/)**
+
+**[GoTo MayeLite](https://t.arae.cc/p-25804/)**
 
 
 **Maye**是一款体积小巧、简单易用的快速启动工具。不要看体积小巧，它的功能还是非常多样化的，比如：多文件拖拽添加启动、快捷键呼出、自动多列显示、lnk文件解析等等。软件没有繁杂的功能，操作中也不会产生任何垃圾文件，绿色无污染，只专注于文件的快速启动，是用户提升Windows操作体验的好帮手。
