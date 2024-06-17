@@ -2,7 +2,13 @@
 
 **[点击阅读原文](https://t.arae.cc/p/25792.html)**
 
+---
+
 **[Maye已停止开发，请移步到MayeLite](https://t.arae.cc/p-25804/)**
+
+[将 Maye 的项目配置迁移到 Maye Lite](https://t.arae.cc/p-25814/)
+
+---
 
 **[GoTo MayeLite](https://t.arae.cc/p-25804/)**
 
