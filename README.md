@@ -4,9 +4,9 @@
 
 ---
 
-**[Maye已停止开发，请移步到MayeLite](https://t.arae.cc/p-25804/)**
+**[Maye已停止开发，请移步到MayeLite](https://t.arae.cc/p-25933/)**
 
-[将 Maye 的项目配置迁移到 Maye Lite](https://t.arae.cc/p-25814/)
+[将 Maye 的项目配置迁移到 Maye Nano](https://t.arae.cc/p-25933/#ToMayeNano)
 
 ---
 
